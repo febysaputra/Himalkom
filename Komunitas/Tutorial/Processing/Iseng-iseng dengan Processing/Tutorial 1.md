@@ -4,8 +4,6 @@
 
 Penulis: Auzi Asfarian
 
-[TOC]
-
 ## Pengantar
 
 “*Programming* itu menyenangkan!” adalah kalimat motivasi para pejuang-pejuang Ilmu Komputer saat kuliah. Yah, tapi kenyataannya pasti ada saat-saat kita merasa bosan berkutat dengan kode program, apalagi saat kode yang kita buat hanya menampilkan program dalam bentuk *command line interface* alias teks putih dengan latar belakang hitam. Agar *programming*tetap menyenangkan, kadang baik untuk kita mempelajari bahasa pemrograman yang lain. Dalam hal ini, kita mempelajari tentang [Processing](http://www.processing.org/) yang keluaran programnya berupa grafis :smile:.
@@ -15,7 +13,7 @@ Penulis: Auzi Asfarian
 
 Untuk percobaan pertama ini, kita akan membuat sebuah program yang akan terus-menerus mengeluarkan pola bunga (_lihat_ gambar). Bunganya tidak terlalu rumit, hanya terdiri atas lima buah lingkaran yang ditumpuk sedemikian rupa. Untuk sedikit memperindah hasil akhir program, akan kita buat supaya ukuran dan warna bunga yang dihasilkan berbeda-beda.
 
-![bunga](\img\bunga.png )
+![](img/bunga.png )
 
 Inilah langkah-langkah untuk merealisasikan program yang telah kita bayangkan sebelumnya :
 
